@@ -1,4 +1,4 @@
-name: hugo
+name: hugo-snap
 version: "0.30.2"
 summary: Fast and Flexible Static Site Generator
 description: |
